@@ -30,23 +30,23 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     VOC_LABELS = {
         'none': (0, 'Background'),
-        'californian poppy': (1, 'californian poppy'),
-        'morning glory': (2, 'morning glory'),
-        'balloon flower': (3, 'balloon flower'),
-        'oxeye daisy': (4, 'oxeye daisy'),
+        'californian_poppy': (1, 'californian poppy'),
+        'morning_glory': (2, 'morning_glory'),
+        'balloon_flower': (3, 'balloon_flower'),
+        'oxeye_daisy': (4, 'oxeye_daisy'),
         'hibiscus': (5, 'hibiscus'),
-        'barbeton daisy': (6, 'barbeton daisy'),
-        'red ginger': (7, 'red ginger'),
+        'barbeton_daisy': (6, 'barbeton_daisy'),
+        'red_ginger': (7, 'red_ginger'),
         'rose': (8, 'rose'),
         'sunflower': (9, 'sunflower'),
-        'moon orchid': (10, 'moon orchid'),
+        'moon_orchid': (10, 'moon_orchid'),
         'hippeastrum': (11, 'hippeastrum'),
         'lotus': (12, 'lotus'),
         'frangipani': (13, 'frangipani'),
-        'water lily': (14, 'water lily'),
-        'bishop of llandaff': (15, 'bishop of llandaff'),
+        'water_lily': (14, 'water_lily'),
+        'bishop_of_llandaff': (15, 'bishop_of_llandaff'),
         'marigold': (16, 'marigold'),
-        'passion flower': (17, 'passion flower')}
+        'passion_flower': (17, 'passion_flower')}
     return VOC_LABELS[row_label][0]
     # if row_label == 'mobile':
     #     return 1
