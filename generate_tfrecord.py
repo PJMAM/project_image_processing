@@ -30,7 +30,7 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     VOC_LABELS = {
         'none': (0, 'Background'),
-        'californian_poppy': (1, 'californian poppy'),
+        'californian_poppy': (1, 'californian_poppy'),
         'morning_glory': (2, 'morning_glory'),
         'balloon_flower': (3, 'balloon_flower'),
         'oxeye_daisy': (4, 'oxeye_daisy'),
