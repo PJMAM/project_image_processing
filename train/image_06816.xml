@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_gieng</folder>
+	<filename>image_06816.jpg</filename>
+	<path>D:\data_project\hoa_gieng\image_06816.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_ginger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>78</ymin>
+			<xmax>274</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_cat_canh</folder>
+	<filename>image_06156.jpg</filename>
+	<path>D:\data_project\hoa_cat_canh\image_06156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>balloon_flower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>19</ymin>
+			<xmax>496</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

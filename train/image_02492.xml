@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bim_bip_60</folder>
+	<filename>image_02492.jpg</filename>
+	<path>D:\data_project\50\bim_bip_60\image_02492.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>593</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>morning_glory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>87</ymin>
+			<xmax>404</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_hong_50</folder>
+	<filename>image_01185.jpg</filename>
+	<path>D:\data_project\hoa_hong_50\image_01185.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>108</ymin>
+			<xmax>505</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

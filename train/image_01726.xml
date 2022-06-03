@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dam_but_50</folder>
+	<filename>image_01726.jpg</filename>
+	<path>D:\data_project\dam_but_50\image_01726.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hibiscus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>9</ymin>
+			<xmax>686</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

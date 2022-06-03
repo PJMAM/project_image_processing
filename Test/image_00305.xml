@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sung_60</folder>
+	<filename>image_00305.jpg</filename>
+	<path>D:\data_project\50\sung_60\image_00305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>677</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water_lily</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>34</ymin>
+			<xmax>497</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

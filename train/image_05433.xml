@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_huong_duong</folder>
+	<filename>image_05433.jpg</filename>
+	<path>D:\data_project\hoa_huong_duong\image_05433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>551</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sunflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>24</ymin>
+			<xmax>493</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

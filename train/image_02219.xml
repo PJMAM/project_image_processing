@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dong_tien_50</folder>
+	<filename>image_02219.jpg</filename>
+	<path>D:\data_project\dong_tien_50\image_02219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water_lily</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>52</ymin>
+			<xmax>579</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

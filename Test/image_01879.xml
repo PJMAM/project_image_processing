@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sen_60</folder>
+	<filename>image_01879.jpg</filename>
+	<path>D:\data_project\50\sen_60\image_01879.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>556</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lotus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>177</ymin>
+			<xmax>400</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

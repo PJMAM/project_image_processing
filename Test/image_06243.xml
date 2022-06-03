@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_cuc_dai</folder>
+	<filename>image_06243.jpg</filename>
+	<path>D:\data_project\hoa_cuc_dai\image_06243.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>771</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oxeye_daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>48</ymin>
+			<xmax>734</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

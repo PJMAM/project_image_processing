@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lay_on_61</folder>
+	<filename>image_02337.jpg</filename>
+	<path>D:\data_project\50\lay_on_61\image_02337.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>666</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hippeastrum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>18</ymin>
+			<xmax>632</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

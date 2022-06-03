@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thuoc_duoc_60</folder>
+	<filename>image_02793.jpg</filename>
+	<path>D:\data_project\50\thuoc_duoc_60\image_02793.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bishop_of_llandaff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>122</ymin>
+			<xmax>554</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_su_60</folder>
+	<filename>image_00784.jpg</filename>
+	<path>D:\data_project\50\hoa_su_60\image_00784.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frangipani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>40</ymin>
+			<xmax>491</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

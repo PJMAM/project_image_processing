@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_van_tho</folder>
+	<filename>image_04990.jpg</filename>
+	<path>D:\data_project\hoa_van_tho\image_04990.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marigold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>65</ymin>
+			<xmax>529</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

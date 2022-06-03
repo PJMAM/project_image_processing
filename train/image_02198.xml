@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dong_tien_50</folder>
+	<filename>image_02198.jpg</filename>
+	<path>D:\data_project\dong_tien_50\image_02198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barbeton_daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>20</ymin>
+			<xmax>662</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

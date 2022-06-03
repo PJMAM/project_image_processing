@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anh_tuc_60</folder>
+	<filename>image_03215.jpg</filename>
+	<path>D:\data_project\50\anh_tuc_60\image_03215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>californian_poppy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>130</ymin>
+			<xmax>530</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

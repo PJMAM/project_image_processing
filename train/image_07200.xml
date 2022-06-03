@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_lan_ho_diep</folder>
+	<filename>image_07200.jpg</filename>
+	<path>D:\data_project\hoa_lan_ho_diep\image_07200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>698</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moon_orchid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>12</ymin>
+			<xmax>632</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

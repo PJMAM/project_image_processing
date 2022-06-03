@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hoa_phong_xa</folder>
+	<filename>image_00041.jpg</filename>
+	<path>D:\data_project\50\hoa_phong_xa\image_00041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>565</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>passion_flower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>64</ymin>
+			<xmax>531</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
